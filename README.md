@@ -13,4 +13,10 @@
     <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_4_summer_2024" target="_blank">Тинькофф (4 задание, Старт карьеры Java-разработчик (лето 2024))</a> (Medium)</li>
     <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_5_summer_2024" target="_blank">Тинькофф (5 задание, Старт карьеры Java-разработчик (лето 2024))</a> (Medium)</li>
     <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_6_summer_2024" target="_blank">Тинькофф (6 задание, Старт карьеры Java-разработчик (лето 2024))</a> (Medium)</li>
+    <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_1_autumn_2024" target="_blank">Тинькофф (1 задание, Старт карьеры Java-разработчик (осень 2024))</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_2_autumn_2024" target="_blank">Тинькофф (2 задание, Старт карьеры Java-разработчик (осень 2024))</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_3_autumn_2024" target="_blank">Тинькофф (3 задание, Старт карьеры Java-разработчик (осень 2024))</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_4_autumn_2024" target="_blank">Тинькофф (4 задание, Старт карьеры Java-разработчик (осень 2024))</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_5_autumn_2024" target="_blank">Тинькофф (5 задание, Старт карьеры Java-разработчик (осень 2024))</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_6_autumn_2024" target="_blank">Тинькофф (6 задание, Старт карьеры Java-разработчик (осень 2024))</a> (?)</li>
 </ol>
