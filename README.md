@@ -20,4 +20,10 @@
     <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_autumn_2024/Tinkoff_5_autumn_2024" target="_blank">Тинькофф (5 задание, Старт карьеры Java-разработчик (осень 2024))</a> (?)</li>
     <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_autumn_2024/Tinkoff_6_autumn_2024" target="_blank">Тинькофф (6 задание, Старт карьеры Java-разработчик (осень 2024))</a> (?)</li>
     <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_spring_2025/Tinkoff_1_spring_2025" target="_blank">Тинькофф (1 задание, Старт карьеры Java-разработчик (весна 2025))</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_spring_2025/Tinkoff_2_spring_2025" target="_blank">Тинькофф (2 задание, Старт карьеры Java-разработчик (весна 2025))</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_spring_2025/Tinkoff_3_spring_2025" target="_blank">Тинькофф (3 задание, Старт карьеры Java-разработчик (весна 2025))</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_spring_2025/Tinkoff_4_spring_2025" target="_blank">Тинькофф (4 задание, Старт карьеры Java-разработчик (весна 2025))</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_spring_2025/Tinkoff_5_spring_2025" target="_blank">Тинькофф (5 задание, Старт карьеры Java-разработчик (весна 2025))</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_spring_2025/Tinkoff_6_spring_2025" target="_blank">Тинькофф (6 задание, Старт карьеры Java-разработчик (весна 2025))</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/tinkoff_algorithms_training/tree/main/src/Tinkoff_spring_2025/Tinkoff_7_spring_2025" target="_blank">Тинькофф (7 задание, Старт карьеры Java-разработчик (весна 2025))</a> (?)</li>
 </ol>
