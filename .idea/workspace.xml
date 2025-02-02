@@ -5,13 +5,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b14f412-136d-48d1-9e9f-43e7a17ea70b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tinkoff_1_autumn_2024/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_spring_2025/Tinkoff_1_spring_2025/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_spring_2025/Tinkoff_1_spring_2025/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_spring_2025/Tinkoff_2_spring_2025/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_spring_2025/Tinkoff_2_spring_2025/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_spring_2025/Tinkoff_3_spring_2025/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_spring_2025/Tinkoff_3_spring_2025/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_spring_2025/Tinkoff_4_spring_2025/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_spring_2025/Tinkoff_4_spring_2025/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_spring_2025/Tinkoff_5_spring_2025/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_spring_2025/Tinkoff_5_spring_2025/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_spring_2025/Tinkoff_6_spring_2025/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_spring_2025/Tinkoff_6_spring_2025/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_spring_2025/Tinkoff_7_spring_2025/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_spring_2025/Tinkoff_7_spring_2025/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_eternal_contest/Tinkoff_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_eternal_contest/Tinkoff_1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_1_autumn_2024/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_autumn_2024/Tinkoff_1_autumn_2024/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_1_autumn_2024/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_autumn_2024/Tinkoff_1_autumn_2024/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_1_summer_2024/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_summer_2024/Tinkoff_1_summer_2024/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_1_summer_2024/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_summer_2024/Tinkoff_1_summer_2024/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_eternal_contest/Tinkoff_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_eternal_contest/Tinkoff_2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_2_autumn_2024/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_autumn_2024/Tinkoff_2_autumn_2024/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_2_autumn_2024/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_autumn_2024/Tinkoff_2_autumn_2024/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_2_summer_2024/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_summer_2024/Tinkoff_2_summer_2024/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_2_summer_2024/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_summer_2024/Tinkoff_2_summer_2024/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_eternal_contest/Tinkoff_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_eternal_contest/Tinkoff_3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_3_autumn_2024/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_autumn_2024/Tinkoff_3_autumn_2024/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_3_autumn_2024/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_autumn_2024/Tinkoff_3_autumn_2024/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_3_summer_2024/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_summer_2024/Tinkoff_3_summer_2024/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_3_summer_2024/Main_first.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_summer_2024/Tinkoff_3_summer_2024/Main_first.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_3_summer_2024/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_summer_2024/Tinkoff_3_summer_2024/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_eternal_contest/Tinkoff_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_eternal_contest/Tinkoff_4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_4_autumn_2024/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_autumn_2024/Tinkoff_4_autumn_2024/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_4_autumn_2024/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_autumn_2024/Tinkoff_4_autumn_2024/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_4_summer_2024/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_summer_2024/Tinkoff_4_summer_2024/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_4_summer_2024/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_summer_2024/Tinkoff_4_summer_2024/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_eternal_contest/Tinkoff_5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_5/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_eternal_contest/Tinkoff_5/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_5_autumn_2024/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_autumn_2024/Tinkoff_5_autumn_2024/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_5_autumn_2024/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_autumn_2024/Tinkoff_5_autumn_2024/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_5_summer_2024/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_summer_2024/Tinkoff_5_summer_2024/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_5_summer_2024/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_summer_2024/Tinkoff_5_summer_2024/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_eternal_contest/Tinkoff_6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_6/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_eternal_contest/Tinkoff_6/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_6_autumn_2024/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_autumn_2024/Tinkoff_6_autumn_2024/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_6_autumn_2024/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_autumn_2024/Tinkoff_6_autumn_2024/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_6_summer_2024/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_summer_2024/Tinkoff_6_summer_2024/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_6_summer_2024/Main_first.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_summer_2024/Tinkoff_6_summer_2024/Main_first.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_6_summer_2024/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_summer_2024/Tinkoff_6_summer_2024/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_eternal_contest/Tinkoff_7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_eternal_contest/Tinkoff_7/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,7 +85,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2g5XgxBQqVnlXEkzjtiWSMnbzt1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +99,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user1/Desktop/tinkoff_algorithms_training/src/Tinkoff_6_autumn_2024",
+    "last_opened_file_path": "C:/Users/user1/Desktop/tinkoff_algorithms_training/src/Tinkoff_spring_2025/Tinkoff_7_spring_2025",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,11 +110,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user1\Desktop\tinkoff_algorithms_training\src\Tinkoff_6_autumn_2024" />
-      <recent name="C:\Users\user1\Desktop\tinkoff_algorithms_training\src\Tinkoff_5_autumn_2024" />
-      <recent name="C:\Users\user1\Desktop\tinkoff_algorithms_training\src\Tinkoff_4_autumn_2024" />
-      <recent name="C:\Users\user1\Desktop\tinkoff_algorithms_training\src\Tinkoff_3_autumn_2024" />
-      <recent name="C:\Users\user1\Desktop\tinkoff_algorithms_training\src\Tinkoff_2_autumn_2024" />
+      <recent name="C:\Users\user1\Desktop\tinkoff_algorithms_training\src\Tinkoff_spring_2025\Tinkoff_7_spring_2025" />
+      <recent name="C:\Users\user1\Desktop\tinkoff_algorithms_training\src\Tinkoff_spring_2025\Tinkoff_6_spring_2025" />
+      <recent name="C:\Users\user1\Desktop\tinkoff_algorithms_training\src\Tinkoff_spring_2025\Tinkoff_5_spring_2025" />
+      <recent name="C:\Users\user1\Desktop\tinkoff_algorithms_training\src\Tinkoff_spring_2025\Tinkoff_4_spring_2025" />
+      <recent name="C:\Users\user1\Desktop\tinkoff_algorithms_training\src\Tinkoff_spring_2025\Tinkoff_3_spring_2025" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Tinkoff_1_autumn_2024" />
@@ -59,7 +123,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
       </set>
     </attachedChunks>
   </component>
@@ -73,7 +138,10 @@
       <updated>1714988528851</updated>
       <workItem from="1714988529987" duration="1058000" />
       <workItem from="1715088372690" duration="110000" />
-      <workItem from="1726559055850" duration="2923000" />
+      <workItem from="1726559055850" duration="3384000" />
+      <workItem from="1729191347584" duration="87000" />
+      <workItem from="1731527748462" duration="13000" />
+      <workItem from="1738008385927" duration="7073000" />
     </task>
     <servers />
   </component>
